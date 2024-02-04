@@ -18,8 +18,6 @@ PrinceBookings prioritizes the security of user data. Through robust authenticat
 ## Real-Time Updates:
 Stay informed with real-time updates on booking status, available rooms, and reservation confirmations. Travelers receive instant notifications, while vendors can manage their inventory efficiently, ensuring a seamless flow of information.
 
-## Interactive Maps:
-Explore the surrounding areas of hotels through interactive maps integrated into the app. Get a sense of the neighborhood and plan your stay with confidence.
 
 ## Responsive Design:
 Whether you're accessing PrinceBookings from your desktop, tablet, or smartphone, our app provides a responsive design, ensuring a consistent and user-friendly experience across all devices.
